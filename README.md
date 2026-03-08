@@ -44,6 +44,6 @@ xray-report-generation
 - Deployment as a web-based medical assistance system
 
 ## Author
-Shehriyar Ali
+Shehriyar Ali &
 Tashanam Afshan
 Final Year Project (FYP)
